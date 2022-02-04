@@ -13,5 +13,5 @@ int main(int argc, char *argv[]) {
     window.resize(200, 400);
     window.show();
     return QApplication::exec();
-    std::cout << "Just practice for git" << std::endl;
+
 }
