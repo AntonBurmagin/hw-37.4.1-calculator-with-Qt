@@ -4,9 +4,6 @@
 #include <./ui_calculator.h>
 
 
-
-
-
 int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
     CalculatorMainWindow window( nullptr);
