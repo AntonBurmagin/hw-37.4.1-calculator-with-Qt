@@ -1,5 +1,5 @@
-C:/Users/burma/Desktop/C++/HW/HW-37\ Qt\ Designer\ and\ UI/HW-37.4.1\ Calculator/cmake-build-debug/HW_37_4_1_Calculator_autogen/EWIEGA46WW/moc_calculatormainwindow.cpp: C:/Users/burma/Desktop/C++/HW/HW-37\ Qt\ Designer\ and\ UI/HW-37.4.1\ Calculator/calculatormainwindow.h \
-  C:/Users/burma/Desktop/C++/HW/HW-37\ Qt\ Designer\ and\ UI/HW-37.4.1\ Calculator/cmake-build-debug/HW_37_4_1_Calculator_autogen/moc_predefs.h \
+C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug/HW_37_4_1_Calculator_autogen/EWIEGA46WW/moc_calculatormainwindow.cpp: C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/calculatormainwindow.h \
+  C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug/HW_37_4_1_Calculator_autogen/moc_predefs.h \
   C:/Program\ Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
   C:/Program\ Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
   C:/Program\ Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/algorithm \
