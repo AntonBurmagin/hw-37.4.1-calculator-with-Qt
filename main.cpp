@@ -13,6 +13,7 @@ int main(int argc, char *argv[]) {
     window.resize(200, 400);
     window.move(100, 100);
     window.move(100, 300);
+    window.move(1, 1);
     window.show();
     return QApplication::exec();
 
