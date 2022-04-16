@@ -8,7 +8,7 @@
 
 #include <QMainWindow>
 #include <QtWidgets/QlineEdit>
-
+#include <string>
 #include <iostream>
 
 enum OPTIONS {
