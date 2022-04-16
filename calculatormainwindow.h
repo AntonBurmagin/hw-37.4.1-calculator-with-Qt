@@ -9,6 +9,7 @@
 #include <QMainWindow>
 #include <QtWidgets/QlineEdit>
 #include <string>
+#include <cmath>
 #include <iostream>
 
 enum OPTIONS {
