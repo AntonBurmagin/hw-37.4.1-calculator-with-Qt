@@ -12,7 +12,8 @@ int main(int argc, char *argv[]) {
     window.lineEdit=calculator.lineEdit;
     window.resize(200, 400);
     window.move(100, 100);
-    window.move(100, 350);
+    window.move(77, 333);
+    window.move(1, 1);
     window.show();
     return QApplication::exec();
 
