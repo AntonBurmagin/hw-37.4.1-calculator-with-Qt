@@ -62,10 +62,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt
+CMAKE_SOURCE_DIR = C:\Users\burma\Desktop\C++\2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\burma\Desktop\C++\2\cmake-build-debug
 
 # Utility rule file for HW_37_4_1_Calculator_autogen.
 
@@ -73,8 +73,8 @@ CMAKE_BINARY_DIR = C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-
 include CMakeFiles/HW_37_4_1_Calculator_autogen.dir/progress.make
 
 CMakeFiles/HW_37_4_1_Calculator_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target HW_37_4_1_Calculator"
-	"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E cmake_autogen C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug/CMakeFiles/HW_37_4_1_Calculator_autogen.dir/AutogenInfo.json Debug
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\burma\Desktop\C++\2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target HW_37_4_1_Calculator"
+	"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E cmake_autogen C:/Users/burma/Desktop/C++/2/cmake-build-debug/CMakeFiles/HW_37_4_1_Calculator_autogen.dir/AutogenInfo.json Debug
 
 HW_37_4_1_Calculator_autogen: CMakeFiles/HW_37_4_1_Calculator_autogen
 HW_37_4_1_Calculator_autogen: CMakeFiles/HW_37_4_1_Calculator_autogen.dir/build.make
@@ -91,6 +91,6 @@ CMakeFiles/HW_37_4_1_Calculator_autogen.dir/clean:
 .PHONY : CMakeFiles/HW_37_4_1_Calculator_autogen.dir/clean
 
 CMakeFiles/HW_37_4_1_Calculator_autogen.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug\CMakeFiles\HW_37_4_1_Calculator_autogen.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\burma\Desktop\C++\2 C:\Users\burma\Desktop\C++\2 C:\Users\burma\Desktop\C++\2\cmake-build-debug C:\Users\burma\Desktop\C++\2\cmake-build-debug C:\Users\burma\Desktop\C++\2\cmake-build-debug\CMakeFiles\HW_37_4_1_Calculator_autogen.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/HW_37_4_1_Calculator_autogen.dir/depend
 

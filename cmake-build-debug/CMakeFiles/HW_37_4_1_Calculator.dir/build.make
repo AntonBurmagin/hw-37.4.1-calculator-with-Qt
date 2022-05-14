@@ -62,10 +62,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt
+CMAKE_SOURCE_DIR = C:\Users\burma\Desktop\C++\2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\burma\Desktop\C++\2\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/HW_37_4_1_Calculator.dir/depend.make
@@ -79,30 +79,30 @@ include CMakeFiles/HW_37_4_1_Calculator.dir/flags.make
 CMakeFiles/HW_37_4_1_Calculator.dir/HW_37_4_1_Calculator_autogen/mocs_compilation.cpp.obj: CMakeFiles/HW_37_4_1_Calculator.dir/flags.make
 CMakeFiles/HW_37_4_1_Calculator.dir/HW_37_4_1_Calculator_autogen/mocs_compilation.cpp.obj: CMakeFiles/HW_37_4_1_Calculator.dir/includes_CXX.rsp
 CMakeFiles/HW_37_4_1_Calculator.dir/HW_37_4_1_Calculator_autogen/mocs_compilation.cpp.obj: HW_37_4_1_Calculator_autogen/mocs_compilation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HW_37_4_1_Calculator.dir/HW_37_4_1_Calculator_autogen/mocs_compilation.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HW_37_4_1_Calculator.dir\HW_37_4_1_Calculator_autogen\mocs_compilation.cpp.obj -c C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug\HW_37_4_1_Calculator_autogen\mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\burma\Desktop\C++\2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HW_37_4_1_Calculator.dir/HW_37_4_1_Calculator_autogen/mocs_compilation.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HW_37_4_1_Calculator.dir\HW_37_4_1_Calculator_autogen\mocs_compilation.cpp.obj -c C:\Users\burma\Desktop\C++\2\cmake-build-debug\HW_37_4_1_Calculator_autogen\mocs_compilation.cpp
 
 CMakeFiles/HW_37_4_1_Calculator.dir/HW_37_4_1_Calculator_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HW_37_4_1_Calculator.dir/HW_37_4_1_Calculator_autogen/mocs_compilation.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug\HW_37_4_1_Calculator_autogen\mocs_compilation.cpp > CMakeFiles\HW_37_4_1_Calculator.dir\HW_37_4_1_Calculator_autogen\mocs_compilation.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\burma\Desktop\C++\2\cmake-build-debug\HW_37_4_1_Calculator_autogen\mocs_compilation.cpp > CMakeFiles\HW_37_4_1_Calculator.dir\HW_37_4_1_Calculator_autogen\mocs_compilation.cpp.i
 
 CMakeFiles/HW_37_4_1_Calculator.dir/HW_37_4_1_Calculator_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HW_37_4_1_Calculator.dir/HW_37_4_1_Calculator_autogen/mocs_compilation.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug\HW_37_4_1_Calculator_autogen\mocs_compilation.cpp -o CMakeFiles\HW_37_4_1_Calculator.dir\HW_37_4_1_Calculator_autogen\mocs_compilation.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\burma\Desktop\C++\2\cmake-build-debug\HW_37_4_1_Calculator_autogen\mocs_compilation.cpp -o CMakeFiles\HW_37_4_1_Calculator.dir\HW_37_4_1_Calculator_autogen\mocs_compilation.cpp.s
 
 CMakeFiles/HW_37_4_1_Calculator.dir/main.cpp.obj: CMakeFiles/HW_37_4_1_Calculator.dir/flags.make
 CMakeFiles/HW_37_4_1_Calculator.dir/main.cpp.obj: CMakeFiles/HW_37_4_1_Calculator.dir/includes_CXX.rsp
 CMakeFiles/HW_37_4_1_Calculator.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/HW_37_4_1_Calculator.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HW_37_4_1_Calculator.dir\main.cpp.obj -c C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\burma\Desktop\C++\2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/HW_37_4_1_Calculator.dir/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HW_37_4_1_Calculator.dir\main.cpp.obj -c C:\Users\burma\Desktop\C++\2\main.cpp
 
 CMakeFiles/HW_37_4_1_Calculator.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HW_37_4_1_Calculator.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\main.cpp > CMakeFiles\HW_37_4_1_Calculator.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\burma\Desktop\C++\2\main.cpp > CMakeFiles\HW_37_4_1_Calculator.dir\main.cpp.i
 
 CMakeFiles/HW_37_4_1_Calculator.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HW_37_4_1_Calculator.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\main.cpp -o CMakeFiles\HW_37_4_1_Calculator.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\burma\Desktop\C++\2\main.cpp -o CMakeFiles\HW_37_4_1_Calculator.dir\main.cpp.s
 
 # Object files for target HW_37_4_1_Calculator
 HW_37_4_1_Calculator_OBJECTS = \
@@ -121,13 +121,13 @@ HW_37_4_1_Calculator.exe: C:/Qt/5.15.2/mingw81_64/lib/libQt5Core.a
 HW_37_4_1_Calculator.exe: CMakeFiles/HW_37_4_1_Calculator.dir/linklibs.rsp
 HW_37_4_1_Calculator.exe: CMakeFiles/HW_37_4_1_Calculator.dir/objects1.rsp
 HW_37_4_1_Calculator.exe: CMakeFiles/HW_37_4_1_Calculator.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable HW_37_4_1_Calculator.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\burma\Desktop\C++\2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable HW_37_4_1_Calculator.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\HW_37_4_1_Calculator.dir\link.txt --verbose=$(VERBOSE)
-	"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E make_directory C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug/plugins/platforms/
-	"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E copy C:/Qt/5.15.2/mingw81_64/lib/cmake/../../plugins/platforms/qwindows.dll C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug/plugins/platforms/
-	"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E copy C:/Qt/5.15.2/mingw81_64/lib/cmake/../../bin/Qt5Core.dll C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug
-	"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E copy C:/Qt/5.15.2/mingw81_64/lib/cmake/../../bin/Qt5Gui.dll C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug
-	"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E copy C:/Qt/5.15.2/mingw81_64/lib/cmake/../../bin/Qt5Widgets.dll C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug
+	"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E make_directory C:/Users/burma/Desktop/C++/2/cmake-build-debug/plugins/platforms/
+	"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E copy C:/Qt/5.15.2/mingw81_64/lib/cmake/../../plugins/platforms/qwindows.dll C:/Users/burma/Desktop/C++/2/cmake-build-debug/plugins/platforms/
+	"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E copy C:/Qt/5.15.2/mingw81_64/lib/cmake/../../bin/Qt5Core.dll C:/Users/burma/Desktop/C++/2/cmake-build-debug
+	"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E copy C:/Qt/5.15.2/mingw81_64/lib/cmake/../../bin/Qt5Gui.dll C:/Users/burma/Desktop/C++/2/cmake-build-debug
+	"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E copy C:/Qt/5.15.2/mingw81_64/lib/cmake/../../bin/Qt5Widgets.dll C:/Users/burma/Desktop/C++/2/cmake-build-debug
 
 # Rule to build all files generated by this target.
 CMakeFiles/HW_37_4_1_Calculator.dir/build: HW_37_4_1_Calculator.exe
@@ -139,6 +139,6 @@ CMakeFiles/HW_37_4_1_Calculator.dir/clean:
 .PHONY : CMakeFiles/HW_37_4_1_Calculator.dir/clean
 
 CMakeFiles/HW_37_4_1_Calculator.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug\CMakeFiles\HW_37_4_1_Calculator.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\burma\Desktop\C++\2 C:\Users\burma\Desktop\C++\2 C:\Users\burma\Desktop\C++\2\cmake-build-debug C:\Users\burma\Desktop\C++\2\cmake-build-debug C:\Users\burma\Desktop\C++\2\cmake-build-debug\CMakeFiles\HW_37_4_1_Calculator.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/HW_37_4_1_Calculator.dir/depend
 

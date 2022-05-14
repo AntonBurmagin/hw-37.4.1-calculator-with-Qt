@@ -1,4 +1,4 @@
-C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug/CMakeFiles/HW_37_4_1_Calculator.dir
-C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug/CMakeFiles/HW_37_4_1_Calculator_autogen.dir
+C:/Users/burma/Desktop/C++/2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/burma/Desktop/C++/2/cmake-build-debug/CMakeFiles/HW_37_4_1_Calculator.dir
+C:/Users/burma/Desktop/C++/2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/burma/Desktop/C++/2/cmake-build-debug/CMakeFiles/HW_37_4_1_Calculator_autogen.dir

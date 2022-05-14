@@ -67,10 +67,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt
+CMAKE_SOURCE_DIR = C:\Users\burma\Desktop\C++\2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\burma\Desktop\C++\2\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -99,9 +99,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug\CMakeFiles C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\burma\Desktop\C++\2\cmake-build-debug\CMakeFiles C:\Users\burma\Desktop\C++\2\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\burma\Desktop\C++\git_practice\hw-37.4.1-calculator-with-Qt\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\burma\Desktop\C++\2\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
