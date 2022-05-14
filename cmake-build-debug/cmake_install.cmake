@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt
+# Install script for directory: C:/Users/burma/Desktop/C++/1/hw-37.4.1-calculator-with-Qt
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/burma/Desktop/C++/git_practice/hw-37.4.1-calculator-with-Qt/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/burma/Desktop/C++/1/hw-37.4.1-calculator-with-Qt/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
